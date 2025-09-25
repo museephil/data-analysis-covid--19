@@ -92,4 +92,4 @@ ax4.set_ylabel("Number of Papers")
 ax4.set_title("Filtered Papers per Year")
 st.pyplot(fig4)
 
-st.write("All done! Scroll through tables and plots above to explore the data.")
+st.write("All done! Scroll through tables and plots above to explore the data, done by Philip Musee David.")
